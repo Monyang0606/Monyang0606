@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi~ there 👋
 
 <!--
 **Monyang0606/Monyang0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
