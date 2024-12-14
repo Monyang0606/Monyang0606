@@ -1,16 +1,15 @@
-## Hi~ there 👋
+<h2><b>💻 Profile</b></h2>
 
-<!--
-**Monyang0606/Monyang0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Gachon Univ. Future Mobility 21
 
-Here are some ideas to get you started:
+<h2><b>🛠 Stack 🛠</b></h2>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></a> &nbsp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monyang0606)](https://solved.ac/monyang0606/)
+
+## 📜 CAREER
